@@ -1,3 +1,3 @@
 # hello-world
 
-Hi everyone! let's git together!
+Hi everyone! Let's git together!
